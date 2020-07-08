@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+	<head>
+		<dateCreated>Sat Jul 04 2020 12:46:59 GMT+0800 (China Standard Time)</dateCreated>
+		<dateModified>Sat Jul 04 2020 12:46:59 GMT+0800 (China Standard Time)</dateModified>
+	</head>
+	<body>
+		<outline text="Omnia Architecture">
+			<outline text="National Level Cybersecurity">
+				<outline text="A Spacetime Perspective">
+					<outline text="The Causal structure of Cyberspace">
+						<outline text="Khun&apos;s Cycle that binds human awareness"></outline>
+						<outline text="Bandwidth"></outline>
+						<outline text="Namespaces"></outline>
+					</outline>
+					<outline text="The Nature of Power Struggles">
+						<outline text="Symmetrical Battle"></outline>
+						<outline text="Asymmetrical Warfare"></outline>
+						<outline text="Data is the Currency of Cyberwars">
+							<outline text="Meta Data">
+								<outline text="Routing"></outline>
+								<outline text="Indexing Structure"></outline>
+							</outline>
+							<outline text="Content Data"></outline>
+							<outline text="Code that acts on Data"></outline>
+						</outline>
+					</outline>
+					<outline text="The Art of War">
+						<outline text="Deter animosity before war starts"></outline>
+						<outline text="Those who computes more, wins!"></outline>
+						<outline text="Winning at all scales!"></outline>
+					</outline>
+				</outline>
+				<outline text="Digital Governance">
+					<outline text="The Spacetime Dominian">
+						<outline text="The right to occupy the namespace"></outline>
+						<outline text="The language of agreements"></outline>
+					</outline>
+					<outline text="The Constituents">
+						<outline text="The People"></outline>
+						<outline text="The Physical Territory"></outline>
+						<outline text="The Law (Sovereignty)"></outline>
+					</outline>
+					<outline text="Homeostasis in Cyberspace">
+						<outline text="Defensive Mechanisms">
+							<outline text="Scenarios and Solutions"></outline>
+							<outline text="Resistance to Intrusion"></outline>
+							<outline text="Quarantine Zones and Immunization"></outline>
+						</outline>
+						<outline text="Self-Governance">
+							<outline text="Social Resilience"></outline>
+							<outline text="People&apos;s Market"></outline>
+							<outline text="Protect the Interests of the Crowd"></outline>
+						</outline>
+						<outline text="Law Enforcement">
+							<outline text="Guaranteed Contract Execution"></outline>
+							<outline text="Automatic Law Refinement">
+								<outline text="Generative Legal Contracts"></outline>
+								<outline text="Automatic Proofs"></outline>
+							</outline>
+							<outline text="Operational Data Observation">
+								<outline text="Mesh Service Architecture"></outline>
+								<outline text="Data Plane and Control Plane"></outline>
+							</outline>
+						</outline>
+					</outline>
+				</outline>
+				<outline text="Security Infrastructures">
+					<outline text="Technical Infrastructures"></outline>
+					<outline text="Societal Structures">
+						<outline text="Culture"></outline>
+						<outline text="Organization"></outline>
+						<outline text="Religious Foundations"></outline>
+					</outline>
+					<outline text="Resilience against Natural and Globalized Disasters">
+						<outline text="Preemptive Actions"></outline>
+						<outline text="Emergency Response"></outline>
+						<outline text="Globalized Sourcing of Solutions"></outline>
+					</outline>
+				</outline>
+			</outline>
+			<outline text="The Enabling Factors">
+				<outline text="New Technologies">
+					<outline text="IoT">
+						<outline text="Work with top tier IoT Supply Chain platforms"></outline>
+					</outline>
+					<outline text="Data Centers">
+						<outline text="Centralized"></outline>
+						<outline text="Personalized"></outline>
+					</outline>
+				</outline>
+				<outline text="New infrastructures">
+					<outline text="Data Sources">
+						<outline text="Live Data Streams"></outline>
+						<outline text="Historical Data"></outline>
+					</outline>
+					<outline text="Data Analytics">
+						<outline text="Adopt Industry Standards">
+							<outline text="Enable Interoperability"></outline>
+							<outline text="Embrace Legacy Data"></outline>
+						</outline>
+						<outline text="Steamline Meta Workflows"></outline>
+					</outline>
+				</outline>
+				<outline text="New Mental Models">
+					<outline text="Culture">
+						<outline text="Foundational Beliefs captured in Live Data"></outline>
+						<outline text="Envision Social Dynamics using Live Data"></outline>
+					</outline>
+					<outline text="Media">
+						<outline text="Shaping the Language of Data Medium"></outline>
+						<outline text="Sensible Media"></outline>
+					</outline>
+					<outline text="Education">
+						<outline text="A national curriculum for Data Awareness"></outline>
+						<outline text="The Reflexive Data of Learning Activities"></outline>
+					</outline>
+				</outline>
+			</outline>
+			<outline text="The Economics of Cyber Defense">
+				<outline text="The Formulation of Cyber Defense Policies">
+					<outline text="Data Centric"></outline>
+					<outline text="Legal Algorithms"></outline>
+					<outline text="Refinement Process">
+						<outline text="Sustainability"></outline>
+						<outline text="Alignment of Localized Interests"></outline>
+					</outline>
+				</outline>
+				<outline text="Measurable Signals and Outcomes">
+					<outline text="Realtime Trust-Worthy Data"></outline>
+					<outline text="Accountability through Book-Keeping Service"></outline>
+				</outline>
+				<outline text="Governance Mechanisms">
+					<outline text="The Kubernetes of Political Agencies"></outline>
+					<outline text="The Council of Cyberspace Governance "></outline>
+				</outline>
+			</outline>
+			<outline text="Building the Future">
+				<outline text="Implementing Omnia in Cyberspace">
+					<outline text="Security Through Distributive Justice">
+						<outline text="The nature of data:Timeless and location-free"></outline>
+						<outline text="Power balance and information symmetry"></outline>
+						<outline text="Encoding Security into Natural Human-Machine Interfaces"></outline>
+					</outline>
+					<outline text="Inclusive Model of Governance Participation">
+						<outline text="Industry Standard Creation Agencies"></outline>
+						<outline text="Personalized Data Centers and Broadcasting Infrastructures"></outline>
+						<outline text="Educational Programs to Inform that masses"></outline>
+					</outline>
+					<outline text="Modularized Development and Operations">
+						<outline text="Cyberspace Defense Policies in DevOps"></outline>
+						<outline text="Build Locally, Deploy Globally"></outline>
+						<outline text="Extract Security Patterns from Vertical Applications"></outline>
+					</outline>
+				</outline>
+				<outline text="Discussion">
+					<outline text="Constituents of a National-level Cybersecurity Program?">
+						<outline text="Subtopic 1"></outline>
+						<outline text="Subtopic 2"></outline>
+						<outline text="Subtopic 3"></outline>
+					</outline>
+					<outline text="Security of National States"></outline>
+					<outline text="Security of Human Civilization"></outline>
+				</outline>
+			</outline>
+			<outline text="Conclusion">
+				<outline text="Cybersecurity is a Global Issue that requires globalized solutions."></outline>
+				<outline text="The architecture of global data distribution defines the characteristics of cybersecurity"></outline>
+				<outline text="National States can participate in the architectural refinement process">
+					<outline text="Actively Participate in Shaping Technology Standards with existing Standard Bodies"></outline>
+					<outline text="Deploy Technical Products and Data Services that are compatible with National-Level Cybersecurity"></outline>
+					<outline text="Support Bottom-up Arts, Entertainment, and Educational Activities that can elevate the Cybersecurity Literacy of Government Agencies and National Citizens"></outline>
+				</outline>
+			</outline>
+		</outline>
+	</body>
+</opml>
